@@ -1,7 +1,7 @@
 # *Elites Bike Store Sales Analysis*
 
 # *Introduction*
-This repository contains an *interactive Power BI report* sfor Elites Bike Store leveraging on customer demographic data, sales trends, and advanced predictive analysis to uncover actionable insights, aimed at improving business decisions and marketing strategies.
+This repository contains an *interactive Power BI report* for Elites Bike Store leveraging on customer demographic data, sales trends, and advanced predictive analysis to uncover actionable insights, aimed at improving business decisions and marketing strategies.
 
 # *Key Features*
 - *Descriptive Analysis*: Detailed insights into customer segments by age, income, region, education, and commute distance.
